@@ -12,8 +12,8 @@
 - Shilpa Arora - Atlan
 - Shilpa Garg - Elucidata Corporation
 - Shrishti - An amazing student of commerce
-- Vivek Sharma - PWC
-- Vishal - noon.com
+- Vivek Sharma - noon.com
+- Vishal - PwC
 
 ## Notes:
 
@@ -74,8 +74,8 @@
 
 - [ ] Add slide decks for past meetups - Shilpa
 - [ ] Share notes with the team - Apoorv
-- [ ] Write a blog on the first meetup - Vishal
-- [ ] Finalize date for the next call and share details - Vivek
+- [ ] Write a blog on the first meetup - Vivek
+- [ ] Finalize date for the next call and share details - Vishal
 - [ ] Articulate assigned responsibilities - create a short term plan - @everyone
 - [ ] Everyone presence on community channels (Slack/Github/Twitter) - @everyone
 
